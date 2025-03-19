@@ -6,6 +6,13 @@
 
 ---
 
+## Preview
+![alt text](<Снимок экрана 2025-03-19 135649.png>)
+![alt text](<Снимок экрана 2025-03-19 140235.png>)
+![alt text](<Снимок экрана 2025-03-19 142533.png>)
+
+---
+
 ## Project technology
 - Vue js
 - Vite
@@ -20,10 +27,12 @@ Project builded to module architecture
 ## Project deployment
 
 <div>
-  <img 
-    src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png'
-    width="400px"
-  >
+  <a href='https://vue-call-of-duty-weather-git-main-helluva-makets-projects.vercel.app'>
+    <img 
+      src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png'
+      width="100px"
+    >
+  </a>
 </div>
 
 ---
